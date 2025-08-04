@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18gNmh7M42nXKH9VcKXgHanEO7mliF4q8
 """
 
-# ============================================================================
-# ZAP.CO.IL PROJECT CONCIERGE - COMPLETE GOOGLE COLAB SOLUTION
-# AI-Powered E-commerce Shopping Assistant - FIXED VERSION
-# ============================================================================
-
 # STEP 1: INSTALL DEPENDENCIES
 import subprocess
 import sys
