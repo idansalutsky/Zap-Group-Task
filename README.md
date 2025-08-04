@@ -1,6 +1,5 @@
-# Zap-Group-Task
-Zap Group Task
-README: Zap Project Concierge
+# Zap Project Concierge
+
 Introduction
 This document provides an overview of the Project Concierge, a working prototype developed for the Zap AI home task. This concept was selected for implementation from three innovative AI capabilities I proposed, all designed to be embedded directly into the zap.co.il e-commerce site.
 My goal with this prototype is to demonstrate a feature that showcases a more sophisticated, consultative AI interaction. Instead of simply returning search results, the Concierge first engages the user to understand their needs, then provides tailored recommendations, directly addressing the core e-commerce challenge of simplifying complex, multi-product purchases.
